@@ -8,6 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - new-page.qmd
+      - this-is-the-third-pages-of-many-more.qmd
       - about.qmd
 
 format:
