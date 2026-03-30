@@ -1,5 +1,5 @@
 ---
-title: "test-website"
+title: "This is a test website"
 ---
 
 This is a Quarto website.
