@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "this-is-the-third-pages-of-many-more.html",
-    "href": "this-is-the-third-pages-of-many-more.html",
-    "title": "A third page",
-    "section": "",
-    "text": "Yet another page."
-  },
-  {
     "objectID": "new-page.html",
     "href": "new-page.html",
     "title": "A new web page",
@@ -35,10 +21,24 @@
     "text": "heading 2\nThis is more text"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "this-is-the-third-pages-of-many-more.html",
+    "href": "this-is-the-third-pages-of-many-more.html",
+    "title": "A third page",
+    "section": "",
+    "text": "Yet another page."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "This is a test website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit.\nThis is bold or italics\n\n1 + 1\n\n[1] 2"
+    "text": "A new change!\nThis is a Quarto website.\nTo learn more about Quarto websites visit.\nThis is bold or italics\n\n1 + 1\n\n[1] 2"
   }
 ]
